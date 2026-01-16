@@ -20,14 +20,5 @@
 ----
 
 ### ✨ Bem-vindo ao meu perfil!
-<div>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=felipekazzu&show_icons=true&theme=radical">
-  
-</div>
 
 ⭐" **O Progresso ocorre linha por linha** "⭐
-
-
- 
-
